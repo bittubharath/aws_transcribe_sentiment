@@ -1,0 +1,2 @@
+# aws_transcribe_sentiment
+aws_transcribe_sentiment_analysis
